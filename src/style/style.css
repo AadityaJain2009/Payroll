@@ -1,0 +1,79 @@
+
+h3{
+    font-family: 'cookie' , cursive;
+    font-size: 64px;
+}
+
+#loginpage{
+    background-image: url(../images/background.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 40%;
+}
+
+#userlabel{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.login-screen{
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 55%;
+    background-color: white;
+}
+
+#header{
+    font-family: 'cookie' , cursive;
+    font-size: 75px;
+    text-align: center;
+}
+
+#linee{
+    height: 0.5px;
+    width: 30%;
+    border: solid black;
+}
+
+#header1{
+    font-family: 'Akaya Telivigala', cursive;
+    border-radius: 0px;
+    font-size: 20px;
+    width: 20%;
+}
+#homepage{
+    background-color:  #b8eeff;
+    margin-left: 5px;
+}
+#header3{
+    font-family: 'Akaya Telivigala', cursive;
+    border-radius: 0px;
+    font-size: 20px;
+    width:80%;
+}
+
+#btn1{
+    width: 20%;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 20px;
+}
+#input1{
+    font-family: 'Akaya Telivigala' , cursive;
+    color: lightslategray;
+    background-color: white;
+}
+#display-box{
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -30px;
+    margin-right: 50px;
+    height: 500px;
+}
+
+#display1{
+    font-family: 'Akaya Telivigala' , cursive;
+    font-size: 20px;
+    margin-left:10px;
+}
